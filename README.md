@@ -1,8 +1,10 @@
 # memorygame
 My Udacity project 2 - Memory Game 
+
 This memory game Project of the Front-End Web Nano Degree to practice JavaScript and Git.
 
 Instructions of the game:
+
 This game consists on pairing up two cards with the same face of a total of 8 pairs. 
 Whenever the player flips the first card the timer will start counting.
 Moves will increase after flipping two cards facing up.
